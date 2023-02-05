@@ -44,7 +44,7 @@ body::-webkit-scrollbar{
 /* font size of 100px is too huge for mobile view so i reduced it to 70px */
 
 .header h1{
-  font-size: 700px;
+  font-size: 70px;
   font-weight: bold;
   color: #B82626ff;
   text-shadow: 0 0 15px #1A203Cff;
